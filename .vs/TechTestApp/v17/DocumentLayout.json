@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\controllers\\empacccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:controllers\\empacccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\views\\empacc\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:views\\empacc\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\views\\empacc\\deleteemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:views\\empacc\\deleteemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\controllers\\twofactorauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:controllers\\twofactorauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\models\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:models\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\models\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:models\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\models\\randomcodegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:models\\randomcodegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\models\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:models\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\models\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:models\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\views\\empacc\\editemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:views\\empacc\\editemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\views\\empacc\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:views\\empacc\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\views\\empacc\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:views\\empacc\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|c:\\users\\viswatejaswini\\source\\repos\\techtestapp\\migrations\\20240318052423_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65010AE9-622B-4F8D-BBE8-25B4A855A056}|TechTestApp.csproj|solutionrelative:migrations\\20240318052423_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Models\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Models\\EmployeeViewModel.cs",
+              "RelativeToolTip": "Models\\EmployeeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:05:36.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpAccController.cs",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Controllers\\EmpAccController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpAccController.cs",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Controllers\\EmpAccController.cs",
+              "RelativeToolTip": "Controllers\\EmpAccController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:35:39.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Views\\EmpAcc\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\EmpAcc\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Views\\EmpAcc\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\EmpAcc\\Dashboard.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T11:28:44.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:51:26.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:18:44.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Views\\EmpAcc\\DeleteEmp.cshtml",
+              "RelativeDocumentMoniker": "Views\\EmpAcc\\DeleteEmp.cshtml",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Views\\EmpAcc\\DeleteEmp.cshtml",
+              "RelativeToolTip": "Views\\EmpAcc\\DeleteEmp.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T10:50:10.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Models\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "Models\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Models\\EncryptionService.cs",
+              "RelativeToolTip": "Models\\EncryptionService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBUAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:29:45.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Models\\IEncryptionService.cs",
+              "RelativeDocumentMoniker": "Models\\IEncryptionService.cs",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Models\\IEncryptionService.cs",
+              "RelativeToolTip": "Models\\IEncryptionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:30:02.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:07:28.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TwoFactorAuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Controllers\\TwoFactorAuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TwoFactorAuthenticationController.cs",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Controllers\\TwoFactorAuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\TwoFactorAuthenticationController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwCMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T10:55:03.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RandomCodeGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Models\\RandomCodeGenerator.cs",
+              "RelativeDocumentMoniker": "Models\\RandomCodeGenerator.cs",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Models\\RandomCodeGenerator.cs",
+              "RelativeToolTip": "Models\\RandomCodeGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:21:05.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Models\\EmailService.cs",
+              "RelativeDocumentMoniker": "Models\\EmailService.cs",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Models\\EmailService.cs",
+              "RelativeToolTip": "Models\\EmailService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T10:59:21.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Models\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Models\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Models\\IEmailService.cs",
+              "RelativeToolTip": "Models\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T10:57:27.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Views\\EmpAcc\\EditEmp.cshtml",
+              "RelativeDocumentMoniker": "Views\\EmpAcc\\EditEmp.cshtml",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Views\\EmpAcc\\EditEmp.cshtml",
+              "RelativeToolTip": "Views\\EmpAcc\\EditEmp.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T10:51:50.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Views\\EmpAcc\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\EmpAcc\\Login.cshtml",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Views\\EmpAcc\\Login.cshtml",
+              "RelativeToolTip": "Views\\EmpAcc\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T05:57:43.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Views\\EmpAcc\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\EmpAcc\\Register.cshtml",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Views\\EmpAcc\\Register.cshtml",
+              "RelativeToolTip": "Views\\EmpAcc\\Register.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T05:53:19.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T05:26:21.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240318052423_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Migrations\\20240318052423_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240318052423_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\VISWATEJASWINI\\source\\repos\\TechTestApp\\Migrations\\20240318052423_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240318052423_InitialCreate.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:24:24.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿@model List<TechTestApp.Models.EmployeeViewModel>
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h1>Dashboard</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Employee Name</th>
+            <th>Email</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(Model != null)
+        {
+            @foreach (var emp in Model.)
+            {
+                <tr>
+                    <td>@emp.EmpName</td>
+                    <td>@emp.Email</td>
+                    <td>
+                        <a asp-action="Edit" asp-controller="Employee" asp-route-id="@emp.Id">Edit</a> |
+                        <a asp-action="Delete" asp-controller="Employee" asp-route-id="@emp.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <p>No Data Available</p>
+        }
+
+    </tbody>
+</table>

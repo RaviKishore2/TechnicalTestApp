@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "EnableTwoFactorAuthentication";
+}
+
+<h1>Verifying Two Factor Authentication</h1>
+
+<p>Please enter the verification code sent to your email address.</p>
+
+<form asp-action="VerifyTwoFactorAuthenticationByEmail" method="post">
+    <div class="form-group">
+        <label for="verificationCode">Verification Code:</label>
+        <input type="text" id="verificationCode" name="verificationCode" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Verify</button>
+</form>
+
